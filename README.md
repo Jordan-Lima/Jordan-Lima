@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Jordan Lima 👋
 
-👨‍💻🎖️ Fui um dos colaboradores do desenvolvimento da <a href="https://github.com/fluffyfatec/spanel" target="_blank"><i>SPanel API<i></a> do <a href="https://github.com/fluffyfatec/" target="_blank"><i>Fluffy - Integrate Project<i></a><a href="https://github.com/jordan-lima">
- <br>
-👨‍💻🔍 Atualmente estou a procura de novo desafios.
+👨‍💻🎖️ Fui um dos colaboradores do desenvolvimento da <a href="https://github.com/fluffyfatec/spanel" target="_blank"><i>SPanel API<i></a> do <a href="https://github.com/fluffyfatec/" target="_blank"><i>Fluffy - Integrate Project<i></a>
+ <a href="https://github.com/jordan-lima"></a><br>
+👨‍💻🔍 Atualmente estou a procura de novo desafios.</h6>
  <br>
 👨‍💻🚧 Portifólio em desenvolvimento.
  <br>
@@ -21,7 +21,7 @@
   <img align="center" alt="Jordan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jordan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jordan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jordan-fluffy" src="https://cdn.discordapp.com/attachments/797589482613637131/887094542350815282/unknown.png">
+  
 </div>
 <br>
 <div> 
