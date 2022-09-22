@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Jordan Lima 👋
 
-👨‍💻 Atualmente sou um dos colaboradores do desenvolvimento da <a href="https://github.com/fluffyfatec/spanel" target="_blank"><i>SPanel API<i></a> do <a href="https://github.com/fluffyfatec/" target="_blank"><i>Fluffy - Integrate Project<i></a>
+👨‍💻🎖️ Fui um dos colaboradores do desenvolvimento da <a href="https://github.com/fluffyfatec/spanel" target="_blank"><i>SPanel API<i></a> do <a href="https://github.com/fluffyfatec/" target="_blank"><i>Fluffy - Integrate Project<i></a>
+
 
  <div>
   <a href="https://github.com/jordan-lima">
