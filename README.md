@@ -24,7 +24,7 @@
 </div>
 <br>
 <div> 
-  <a href = "mailto:jordanlimasuhett@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ceo@jordanlima.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5512991731357&text=Preciso%20do%20Dev!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/jordan-lima/jordan-lima/blob/output/github-contribution-grid-snake.svg)
