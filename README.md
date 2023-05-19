@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jordan Lima 👋
+### Olá, Meu nome é Jordan Lima! Futuro Engenheiro de Software. 👋
 
 👨‍💻🎖️ Fui um dos colaboradores do desenvolvimento da <a href="https://github.com/fluffyfatec/spanel" target="_blank"><i>SPanel API<i></a> do <a href="https://github.com/fluffyfatec/" target="_blank"><i>Fluffy - Integrate Project<i></a>
  <a href="https://github.com/jordan-lima"></a><br>
@@ -6,13 +6,12 @@
  <br>
 👨‍💻🚧 Portifólio em desenvolvimento.
  <br>
-
  <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordan-lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-lima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+ <br>
 <div>
  <table>
   <tr>
