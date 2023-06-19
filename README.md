@@ -1,10 +1,10 @@
-### Olá, Meu nome é Jordan Lima! Futuro Engenheiro de Software. 👋
+### Hello World! My name's Jordan Lima! Future Software Engineer. 👋
 
-👨‍💻🎖️ Fui um dos colaboradores do desenvolvimento da <a href="https://github.com/fluffyfatec/spanel" target="_blank"><i>SPanel API<i></a> do <a href="https://github.com/fluffyfatec/" target="_blank"><i>Fluffy - Integrate Project<i></a>
+👨‍💻🎖️ I was one of the contributors to the development of the <a href="https://github.com/fluffyfatec/spanel" target="_blank"><i>SPanel API<i></a> in the <a href="https://github.com/fluffyfatec/" target="_blank"><i>Fluffy - Integrate Project<i></a>
  <a href="https://github.com/jordan-lima"></a><br>
-👨‍💻🔍 Atualmente estou a procura de novo desafios.</h6>
+👨‍💻🔍 I'm currently seeking new challenges.</h6>
  <br>
-👨‍💻🚧 Portifólio em desenvolvimento.
+👨‍💻🚧 Portifolio eunder development.
  <br>
  <div>
   
