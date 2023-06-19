@@ -4,7 +4,7 @@
  <a href="https://github.com/jordan-lima"></a><br>
 👨‍💻🔍 I'm currently seeking new challenges.</h6>
  <br>
-👨‍💻🚧 Portifolio eunder development.
+👨‍💻🚧 Portifolio under development.
  <br>
  <div>
   
