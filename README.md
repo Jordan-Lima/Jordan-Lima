@@ -23,21 +23,18 @@
   <tr>
     <td>
       <img align="center" alt="Jordan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jordan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jordan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jordan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Jordan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Jordan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </td>
    <td>
     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
    </td>
     <td>
-     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+     <img align="center" width="40" height="40" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java-logo"/>
+     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python-logo"/>
    </td>
    <td>
-    <img align="center" alt="Jordan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Jordan-React" height="40" width="40" src="https://img.icons8.com/color/480/spring-logo.png" alt="spring-logo">
    </td>
  </tr>
 </table>
