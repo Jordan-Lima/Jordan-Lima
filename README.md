@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>
-      <img align="center" alt="Jordan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Jordan-Js" height="30" src="https://github.com/user-attachments/assets/6e1b4ff8-ef53-4808-92c5-280061d9202c">
       <img align="center" alt="Jordan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Jordan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </td>
@@ -33,7 +33,11 @@
      <img align="center" width="40" height="40" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java-logo"/>
    </td>
    <td>
-    <img align="center" alt="Jordan-React" height="40" width="40" src="https://img.icons8.com/color/480/spring-logo.png" alt="spring-logo">
+    <img align="center" height="40" width="40" src="https://img.icons8.com/color/480/spring-logo.png" alt="spring-logo">
+    <img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/f0234098-9427-44b0-ba4f-5bde9e12a2a3" alt="react-logo">
+    <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwind-logo">
+    
+
    </td>
  </tr>
 </table>
