@@ -34,7 +34,7 @@
    </td>
    <td>
     <img align="center" height="40" width="40" src="https://img.icons8.com/color/480/spring-logo.png" alt="spring-logo">
-    <img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/f0234098-9427-44b0-ba4f-5bde9e12a2a3" alt="react-logo">
+    <img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/15772/15772797.png" alt="react-logo">
     <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwind-logo">
     
 
