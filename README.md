@@ -23,17 +23,19 @@
   <tr>
     <td>
       <img align="center" alt="Jordan-Js" height="30" src="https://github.com/user-attachments/assets/6e1b4ff8-ef53-4808-92c5-280061d9202c">
-      <img align="center" alt="Jordan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <a href="https://github.com/Jordan-Lima?tab=repositories&q=&type=&language=html&sort="><img align="center" alt="Jordan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
       <img align="center" alt="Jordan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </td>
    <td>
     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
    </td>
     <td>
-     <img align="center" width="40" height="40" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java-logo"/>
+     <a href="https://github.com/Jordan-Lima?tab=repositories&q=&type=&language=java&sort="><img align="center" width="40" height="40" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java-logo"/></a>
    </td>
    <td>
-    <img align="center" height="40" width="40" src="https://img.icons8.com/color/480/spring-logo.png" alt="spring-logo">
+    <a href="https://github.com/Jordan-Lima?tab=repositories&q=spring">
+     <img align="center" height="40" width="40" src="https://img.icons8.com/color/480/spring-logo.png" alt="spring-logo">
+    </a>
     <img align="center" height="38" width="38" src="https://github.com/user-attachments/assets/fd0bd45b-c109-4975-8de6-1205ea812e30" alt="angular-logo">
     <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwind-logo">
     
