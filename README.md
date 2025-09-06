@@ -38,3 +38,5 @@ Eu sou **Jordan Lima**, futuro engenheiro de software.
 ---
 
 ![GitHub Snake Animation](https://github.com/jordan-lima/jordan-lima/blob/output/github-contribution-grid-snake.svg)
+
+em crescimento 📈 
